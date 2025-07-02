@@ -3,14 +3,14 @@
     "light": {
       "colors": {
         "primaryBase": "#F36F21",
-        "secondaryBase":"#FF0000",
-        "tertiaryBase":"#9D60F4"
+        "secondaryBase":"#FFDD4D",
+        "tertiaryBase":"#7648B4"
       }
     },
     "dark": {
       "colors": {
         "primaryBase": "#F36F55",
-        "secondaryBase":"#FFDD88",
+        "secondaryBase":"#FFCE00",
         "tertiaryBase":"#9D60F4"
 
       }
@@ -19,8 +19,8 @@
   "brandReliant": {
     "light": {
       "colors": {
-        "primaryBase":"#0097D0",
-        "secondaryBase":"#333092",
+        "primaryBase":"#0088BB",
+        "secondaryBase":"#72B06B",
         "tertiaryBase":"#CD007A"
 
       }
