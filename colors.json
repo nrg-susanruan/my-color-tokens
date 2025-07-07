@@ -21,7 +21,7 @@
   "brandReliant": {
     "light": {
       "colors": {
-        "primaryBase":"#000000",
+        "primaryBase":"#0088BB",
         "secondaryBase":"#72B06B",
         "tertiaryBase":"#CD007A",
         "borderDefaultTertiary": "#D7D7D7"
@@ -30,7 +30,7 @@
     },
     "dark": {
       "colors": {
-        "primaryBase": "#c30010",
+        "primaryBase": "#19B6F1",
         "secondaryBase":"#8197C8",
         "tertiaryBase":"#EB2F96",
         "borderDefaultTertiary": "#3D4B52"
