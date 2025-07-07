@@ -4,14 +4,16 @@
       "colors": {
         "primaryBase": "#F36F21",
         "secondaryBase":"#FFDD4D",
-        "tertiaryBase":"#7648B4"
+        "tertiaryBase":"#7648B4",
+        "borderDefaultSecondary": "#FF0000"
       }
     },
     "dark": {
       "colors": {
         "primaryBase": "#F36F55",
         "secondaryBase":"#FFCE00",
-        "tertiaryBase":"#9D60F4"
+        "tertiaryBase":"#9D60F4",
+       "borderDefaultSecondary": "#00ff00"
 
       }
     }
@@ -19,17 +21,19 @@
   "brandReliant": {
     "light": {
       "colors": {
-        "primaryBase":"#0088BB",
+        "primaryBase":"#000000",
         "secondaryBase":"#72B06B",
-        "tertiaryBase":"#CD007A"
+        "tertiaryBase":"#CD007A",
+        "borderDefaultTertiary": "#D7D7D7"
 
       }
     },
     "dark": {
       "colors": {
-        "primaryBase": "#19B6F1",
+        "primaryBase": "#c30010",
         "secondaryBase":"#8197C8",
-        "tertiaryBase":"#EB2F96"
+        "tertiaryBase":"#EB2F96",
+        "borderDefaultTertiary": "#3D4B52"
       }
     }
   }
